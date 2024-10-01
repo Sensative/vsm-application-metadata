@@ -1,5 +1,5 @@
 {
-"name":"Linkcheck","linkCheckRate":{
+"name":"Linkcheck","doc":"This application provides functions to measure LoRaWan signal quality (downlinks) at a set interval.\n\n","linkCheckRate":{
 "doc":"\nThe average rate at which we do link checks (in seconds), exact timing is randomized\n\n","unit":"Seconds","default":30,"min":2,"max":3600,"size":1,"translate":1,"id":160,"type":"input","name":"linkCheckRate"},"GPS_TIME_MAX_AGE":{
 "doc":"Once this maximum age has passed the device will no longer trust its GPS_TIME and GNSS scans become autonomous.\nAlso, it will start emitting DEVICE_TIME requests on the LoRaWan network once 80% of this time has passed.\nTypically the clock drift is a few seconds per 24 hrs. Gps time should be correct within 30s for good assisted scans.\nOutdoor use tends to increase clock drift.\n\n","uiName":"Device Time Max Age","readOnly":false,"unit":"Seconds","default":0,"min":0,"max":4294967295,"translate":1,"id":205,"type":"register","name":"GPS_TIME_MAX_AGE"},"SATELLITE_COUNT":{
 "doc":"\nReads as the number of satellites seen in the last GNSS scan.\n\n","readOnly":true,"unit":"integer","translate":1,"id":206,"type":"register","name":"SATELLITE_COUNT"},"LINKCHECK_TIME":{
