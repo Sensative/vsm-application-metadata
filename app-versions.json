@@ -1,0 +1,1172 @@
+{
+ "40829709": {
+  "name": "Motion-measure",
+  "crc": 40829709,
+  "versions": "R33 R32 R31 R30 R29 R28 R27 R26 R1001 R1000"
+ },
+ "47853213": {
+  "name": "Lifefinder",
+  "crc": 47853213,
+  "versions": "R9 R12 R11 R10"
+ },
+ "57715230": {
+  "name": "Tracker-stats",
+  "crc": 57715230,
+  "versions": "R8 R7 R6 R5"
+ },
+ "58620517": {
+  "name": "Lifefinder-gnss",
+  "crc": 58620517,
+  "versions": "R25 R24"
+ },
+ "78751172": {
+  "name": "Radiotest",
+  "crc": 78751172,
+  "versions": "R33 R32 R31 R30 R29 R28 R27 R26 R25 R24 R23 R1001 R1000"
+ },
+ "79276854": {
+  "name": "Lifefinder-squad",
+  "crc": 79276854,
+  "versions": "R8 R7"
+ },
+ "90459126": {
+  "name": "Lifefinder-motion-nfc-both",
+  "crc": 90459126,
+  "versions": "R27"
+ },
+ "114894312": {
+  "name": "Square-air",
+  "crc": 114894312,
+  "versions": "R33 R1001"
+ },
+ "119034373": {
+  "name": "Presence",
+  "crc": 119034373,
+  "versions": "R1001"
+ },
+ "156242849": {
+  "name": "Air",
+  "crc": 156242849,
+  "versions": "R1000"
+ },
+ "174308877": {
+  "name": "Airport-int",
+  "crc": 174308877,
+  "versions": "R10"
+ },
+ "175381321": {
+  "name": "MeshBasicMotion",
+  "crc": 175381321,
+  "versions": "R1001"
+ },
+ "186643291": {
+  "name": "Square-comfort",
+  "crc": 186643291,
+  "versions": "R33 R32 R31 R1001 R1000"
+ },
+ "190349531": {
+  "name": "Radiotest-measure",
+  "crc": 190349531,
+  "versions": "R13 R12"
+ },
+ "232953314": {
+  "name": "Lifefinder-wifi",
+  "crc": 232953314,
+  "versions": "R26"
+ },
+ "238715532": {
+  "name": "MeshComfortExtender",
+  "crc": 238715532,
+  "versions": ""
+ },
+ "289128601": {
+  "name": "Motion-measure",
+  "crc": 289128601,
+  "versions": "R29 R28 R27"
+ },
+ "305267858": {
+  "name": "MeshBridge",
+  "crc": 305267858,
+  "versions": ""
+ },
+ "313796611": {
+  "name": "MeshRadar",
+  "crc": 313796611,
+  "versions": ""
+ },
+ "376700598": {
+  "name": "Puck-tracker",
+  "crc": 376700598,
+  "versions": "R6 R5"
+ },
+ "380665685": {
+  "name": "MeshComfortTimeCount",
+  "crc": 380665685,
+  "versions": ""
+ },
+ "393429851": {
+  "name": "Lifefinder-alternating",
+  "crc": 393429851,
+  "versions": "R28"
+ },
+ "399948366": {
+  "name": "Lifefinder-squad",
+  "crc": 399948366,
+  "versions": "R9 R12 R11 R10"
+ },
+ "448357549": {
+  "name": "Pir-State-Debug",
+  "crc": 448357549,
+  "versions": "R1001"
+ },
+ "472391447": {
+  "name": "Square-air",
+  "crc": 472391447,
+  "versions": "R13"
+ },
+ "480224973": {
+  "name": "IR-proximity",
+  "crc": 480224973,
+  "versions": "R33 R32 R31 R1001 R1000"
+ },
+ "489186430": {
+  "name": "Tracker",
+  "crc": 489186430,
+  "versions": "R21 R20 R19 R18 R16 R15 R14 R13 R12 R11 R10"
+ },
+ "493404408": {
+  "name": "Lifefinder-wifi",
+  "crc": 493404408,
+  "versions": "R23"
+ },
+ "501251891": {
+  "name": "Lifefinder-alternating",
+  "crc": 501251891,
+  "versions": "R25 R24"
+ },
+ "517999093": {
+  "name": "Square-comfort-sound",
+  "crc": 517999093,
+  "versions": "R14"
+ },
+ "534670557": {
+  "name": "Tracker",
+  "crc": 534670557,
+  "versions": "R9"
+ },
+ "543135441": {
+  "name": "Radiotest-ping-pong-ext",
+  "crc": 543135441,
+  "versions": "R33 R32 R31 R30 R1001 R1000"
+ },
+ "561898260": {
+  "name": "Puck-radar",
+  "crc": 561898260,
+  "versions": "R26 R25 R24 R23 R22 R21 R20 R19 R18 R16 R15 R14 R13"
+ },
+ "579931453": {
+  "name": "Pir-Motion",
+  "crc": 579931453,
+  "versions": "R1001"
+ },
+ "584652534": {
+  "name": "Gnss-autonomous-test",
+  "crc": 584652534,
+  "versions": "R8 R7"
+ },
+ "596652351": {
+  "name": "Lifefinder",
+  "crc": 596652351,
+  "versions": "R6 R5"
+ },
+ "618828819": {
+  "name": "Motion-spectrum",
+  "crc": 618828819,
+  "versions": "R1001"
+ },
+ "656740722": {
+  "name": "Square-comfort",
+  "crc": 656740722,
+  "versions": "R8 R7 R6 R5"
+ },
+ "666673201": {
+  "name": "MeshBridge",
+  "crc": 666673201,
+  "versions": "R1001"
+ },
+ "685004179": {
+  "name": "Lifefinder-wifi",
+  "crc": 685004179,
+  "versions": "R22"
+ },
+ "691254335": {
+  "name": "Lifefinder-wifi",
+  "crc": 691254335,
+  "versions": "R15 R14 R13"
+ },
+ "729172455": {
+  "name": "Puck-radar-fast-rejoin",
+  "crc": 729172455,
+  "versions": "R12"
+ },
+ "871865531": {
+  "name": "Lifefinder",
+  "crc": 871865531,
+  "versions": "R8 R7"
+ },
+ "875676680": {
+  "name": "Square-air",
+  "crc": 875676680,
+  "versions": "R7 R6"
+ },
+ "880650985": {
+  "name": "Generic-NFC-Reader",
+  "crc": 880650985,
+  "versions": ""
+ },
+ "892254780": {
+  "name": "Lifefinder-gnss",
+  "crc": 892254780,
+  "versions": "R27"
+ },
+ "915094797": {
+  "name": "Square-air",
+  "crc": 915094797,
+  "versions": "R12 R11"
+ },
+ "924779957": {
+  "name": "Puck-radar-v6",
+  "crc": 924779957,
+  "versions": "R8 R7"
+ },
+ "1005192630": {
+  "name": "Lifefinder-wifi",
+  "crc": 1005192630,
+  "versions": "R30 R29"
+ },
+ "1016353446": {
+  "name": "Airport-int-R6-fw-patch",
+  "crc": 1016353446,
+  "versions": "R21 R20"
+ },
+ "1030541641": {
+  "name": "Square-comfort-sound",
+  "crc": 1030541641,
+  "versions": "R33 R32 R31 R30 R1001 R1000"
+ },
+ "1042039355": {
+  "name": "Lifefinder-motion-nfc-wifi",
+  "crc": 1042039355,
+  "versions": "R33 R32 R31 R1001 R1000"
+ },
+ "1047034189": {
+  "name": "Sniffer",
+  "crc": 1047034189,
+  "versions": "R33 R32 R31 R30 R29 R28 R27 R26 R25 R24 R23 R22 R21 R20 R19 R18 R16 R15 R14 R13 R12 R1001 R1000"
+ },
+ "1119827817": {
+  "name": "Lifefinder-motion-nfc-gnss",
+  "crc": 1119827817,
+  "versions": "R33 R32 R31 R1001 R1000"
+ },
+ "1121182195": {
+  "name": "Puck-radar-fast-rejoin",
+  "crc": 1121182195,
+  "versions": "R21 R20 R19 R18 R16 R15 R14 R13"
+ },
+ "1128699053": {
+  "name": "Square-air",
+  "crc": 1128699053,
+  "versions": "R9 R10"
+ },
+ "1161910006": {
+  "name": "Lifefinder-alternating",
+  "crc": 1161910006,
+  "versions": "R30 R29"
+ },
+ "1167154829": {
+  "name": "Air",
+  "crc": 1167154829,
+  "versions": "R1001"
+ },
+ "1188116463": {
+  "name": "Lifefinder-alternating",
+  "crc": 1188116463,
+  "versions": "R22"
+ },
+ "1188848834": {
+  "name": "Motion-measure",
+  "crc": 1188848834,
+  "versions": "R8"
+ },
+ "1239299816": {
+  "name": "MeshAir",
+  "crc": 1239299816,
+  "versions": ""
+ },
+ "1270577071": {
+  "name": "Air",
+  "crc": 1270577071,
+  "versions": "R1000"
+ },
+ "1274106153": {
+  "name": "Airport-int",
+  "crc": 1274106153,
+  "versions": "R9"
+ },
+ "1304526571": {
+  "name": "Motion-measure-unconf",
+  "crc": 1304526571,
+  "versions": "R33 R32 R31 R30 R29 R28 R27 R26 R1001 R1000"
+ },
+ "1319111708": {
+  "name": "Compliance-test",
+  "crc": 1319111708,
+  "versions": "R9 R8 R7 R6 R5 R33 R32 R31 R30 R29 R28 R27 R26 R25 R24 R23 R22 R21 R20 R19 R18 R16 R15 R14 R13 R12 R11 R1001 R1000 R10"
+ },
+ "1325798073": {
+  "name": "Puck-radar",
+  "crc": 1325798073,
+  "versions": "R12 R11"
+ },
+ "1340832739": {
+  "name": "Lifefinder-motion-nfc-both",
+  "crc": 1340832739,
+  "versions": "R30 R29 R28"
+ },
+ "1355326083": {
+  "name": "Square-comfort-sound",
+  "crc": 1355326083,
+  "versions": "R18 R16"
+ },
+ "1367119623": {
+  "name": "Motion-spectrum",
+  "crc": 1367119623,
+  "versions": "R26"
+ },
+ "1368947946": {
+  "name": "Digital-gpio",
+  "crc": 1368947946,
+  "versions": "R25 R24"
+ },
+ "1388527692": {
+  "name": "Lifefinder-wifi",
+  "crc": 1388527692,
+  "versions": "R28"
+ },
+ "1396760839": {
+  "name": "Square-comfort-sound",
+  "crc": 1396760839,
+  "versions": "R1001"
+ },
+ "1431126559": {
+  "name": "Lifefinder-motion-nfc-wifi",
+  "crc": 1431126559,
+  "versions": "R27"
+ },
+ "1459643068": {
+  "name": "Motion-spectrum",
+  "crc": 1459643068,
+  "versions": "R1001"
+ },
+ "1492660716": {
+  "name": "Lifefinder-motion-button-gnss",
+  "crc": 1492660716,
+  "versions": "R33 R32 R31 R1001 R1000"
+ },
+ "1502568250": {
+  "name": "Pir-Presence",
+  "crc": 1502568250,
+  "versions": "R1001"
+ },
+ "1508685242": {
+  "name": "MeshComfortSound",
+  "crc": 1508685242,
+  "versions": "R1001"
+ },
+ "1548534003": {
+  "name": "Motion-spectrum",
+  "crc": 1548534003,
+  "versions": "R29 R28 R27"
+ },
+ "1586871679": {
+  "name": "Motion-measure-unconf",
+  "crc": 1586871679,
+  "versions": "R29 R28 R27"
+ },
+ "1592932210": {
+  "name": "Lifefinder-alternating",
+  "crc": 1592932210,
+  "versions": "R26"
+ },
+ "1617091456": {
+  "name": "Digital-gpio",
+  "crc": 1617091456,
+  "versions": "R23 R22 R21 R20 R19 R18 R16 R15 R14 R13"
+ },
+ "1619903829": {
+  "name": "Airport-budget",
+  "crc": 1619903829,
+  "versions": "R6"
+ },
+ "1625058930": {
+  "name": "Digital-gpio",
+  "crc": 1625058930,
+  "versions": "R26"
+ },
+ "1643871491": {
+  "name": "Tracker-time",
+  "crc": 1643871491,
+  "versions": "R8 R7"
+ },
+ "1654085923": {
+  "name": "Lifefinder-wifi-pos-tester",
+  "crc": 1654085923,
+  "versions": "R33 R32 R31 R30 R29 R28 R1001 R1000"
+ },
+ "1657727329": {
+  "name": "Heartstarter",
+  "crc": 1657727329,
+  "versions": "R33 R32 R31 R30 R29 R28 R27 R26 R1001 R1000"
+ },
+ "1695912328": {
+  "name": "Airport-int",
+  "crc": 1695912328,
+  "versions": "R15 R14 R13 R12 R11"
+ },
+ "1711284143": {
+  "name": "Tracker-stats",
+  "crc": 1711284143,
+  "versions": "R9 R33 R32 R31 R30 R29 R28 R27 R26 R25 R24 R23 R22 R21 R20 R19 R18 R16 R15 R14 R13 R12 R11 R1001 R1000 R10"
+ },
+ "1727723267": {
+  "name": "Heartstarter",
+  "crc": 1727723267,
+  "versions": "R9 R25 R24 R23 R22 R21 R20 R19 R18 R16 R15 R14 R13 R12 R11 R10"
+ },
+ "1742321452": {
+  "name": "Square-comfort-sound",
+  "crc": 1742321452,
+  "versions": "R9 R10"
+ },
+ "1776650847": {
+  "name": "MeshComfortExtender",
+  "crc": 1776650847,
+  "versions": "R1001"
+ },
+ "1793139152": {
+  "name": "Lifefinder-wifi",
+  "crc": 1793139152,
+  "versions": "R33 R32 R31 R1001 R1000"
+ },
+ "1815337626": {
+  "name": "Gnss-autonomous-test",
+  "crc": 1815337626,
+  "versions": "R9 R33 R32 R31 R30 R29 R28 R27 R26 R25 R24 R23 R22 R21 R20 R19 R18 R16 R15 R14 R13 R12 R11 R1001 R1000 R10"
+ },
+ "1816763371": {
+  "name": "Lifefinder-squad",
+  "crc": 1816763371,
+  "versions": "R6 R5"
+ },
+ "1843680688": {
+  "name": "Air",
+  "crc": 1843680688,
+  "versions": "R1000"
+ },
+ "1872032769": {
+  "name": "Airport-int",
+  "crc": 1872032769,
+  "versions": "R15 R14 R13"
+ },
+ "1896268866": {
+  "name": "MeshAir",
+  "crc": 1896268866,
+  "versions": "R1001"
+ },
+ "1905731402": {
+  "name": "MeshComfortSound",
+  "crc": 1905731402,
+  "versions": "R1000"
+ },
+ "1906091416": {
+  "name": "Linkcheck",
+  "crc": 1906091416,
+  "versions": "R33 R32 R31 R1001 R1000"
+ },
+ "1920568829": {
+  "name": "Lifefinder-wifi",
+  "crc": 1920568829,
+  "versions": "R25 R24"
+ },
+ "1936564868": {
+  "name": "Lifefinder-alternating",
+  "crc": 1936564868,
+  "versions": "R23"
+ },
+ "1937430598": {
+  "name": "Square-air",
+  "crc": 1937430598,
+  "versions": "R8"
+ },
+ "1938827428": {
+  "name": "Lifefinder-motion",
+  "crc": 1938827428,
+  "versions": "R9 R12 R11 R10"
+ },
+ "1946060128": {
+  "name": "Puck-radar",
+  "crc": 1946060128,
+  "versions": "R33 R32 R31 R1001 R1000"
+ },
+ "1977453069": {
+  "name": "Puck-radar",
+  "crc": 1977453069,
+  "versions": "R30"
+ },
+ "1992308244": {
+  "name": "Air",
+  "crc": 1992308244,
+  "versions": "R1001"
+ },
+ "1996989331": {
+  "name": "Lifefinder-motion-nfc-both",
+  "crc": 1996989331,
+  "versions": "R33 R32 R31 R1001 R1000"
+ },
+ "2014504806": {
+  "name": "Lifefinder-motion-button-wifi",
+  "crc": 2014504806,
+  "versions": "R30 R29 R28"
+ },
+ "2025703382": {
+  "name": "Puck-radar",
+  "crc": 2025703382,
+  "versions": "R29"
+ },
+ "2029355788": {
+  "name": "Tracker",
+  "crc": 2029355788,
+  "versions": "R25 R24 R23 R22"
+ },
+ "2042001954": {
+  "name": "MeshAir",
+  "crc": 2042001954,
+  "versions": "R1000"
+ },
+ "2086971063": {
+  "name": "MeshRadar",
+  "crc": 2086971063,
+  "versions": "R1000"
+ },
+ "2087078277": {
+  "name": "Lifefinder-motion-button-both",
+  "crc": 2087078277,
+  "versions": "R27"
+ },
+ "2093063534": {
+  "name": "Tracker",
+  "crc": 2093063534,
+  "versions": "R26"
+ },
+ "2132727044": {
+  "name": "Default",
+  "crc": 2132727044,
+  "versions": "R9 R33 R32 R31 R30 R29 R28 R27 R26 R25 R24 R23 R22 R21 R20 R19 R18 R16 R15 R14 R13 R12 R11 R1001 R1000 R10"
+ },
+ "2182170139": {
+  "name": "Radiotest",
+  "crc": 2182170139,
+  "versions": "R9 R8 R7 R6 R5 R11 R10"
+ },
+ "2217610819": {
+  "name": "MeshComfortExtender",
+  "crc": 2217610819,
+  "versions": "R1000"
+ },
+ "2230085897": {
+  "name": "Radiotest",
+  "crc": 2230085897,
+  "versions": "R22 R21 R20 R19 R18 R16 R15 R14 R13 R12"
+ },
+ "2250927506": {
+  "name": "Lifefinder-motion-button-wifi",
+  "crc": 2250927506,
+  "versions": "R33 R32 R31 R1001 R1000"
+ },
+ "2266505222": {
+  "name": "Square-comfort",
+  "crc": 2266505222,
+  "versions": "R25 R24 R23 R22 R21 R20 R19 R18 R16 R15"
+ },
+ "2274655646": {
+  "name": "Lifefinder-wifi",
+  "crc": 2274655646,
+  "versions": "R21 R20 R19 R18 R16"
+ },
+ "2281120690": {
+  "name": "Square-air",
+  "crc": 2281120690,
+  "versions": "R5"
+ },
+ "2292020255": {
+  "name": "Square-comfort-sound",
+  "crc": 2292020255,
+  "versions": "R33 R32 R31 R1001 R1000"
+ },
+ "2297466901": {
+  "name": "Motion-measure",
+  "crc": 2297466901,
+  "versions": "R9 R25 R24 R23 R22 R21 R20 R19 R18 R16 R15 R14 R13 R12 R11 R10"
+ },
+ "2338085954": {
+  "name": "Square-comfort-sound",
+  "crc": 2338085954,
+  "versions": "R15"
+ },
+ "2355202201": {
+  "name": "IR-proximity",
+  "crc": 2355202201,
+  "versions": "R23 R22 R21 R20 R19 R18 R16"
+ },
+ "2359357756": {
+  "name": "Lifefinder-motion-button-gnss",
+  "crc": 2359357756,
+  "versions": "R30 R29 R28"
+ },
+ "2371105800": {
+  "name": "Airport-int",
+  "crc": 2371105800,
+  "versions": "R21"
+ },
+ "2387046759": {
+  "name": "Square-comfort-sound",
+  "crc": 2387046759,
+  "versions": "R12 R11"
+ },
+ "2391995788": {
+  "name": "Square-comfort-sound",
+  "crc": 2391995788,
+  "versions": "R8 R7 R6 R5"
+ },
+ "2409062033": {
+  "name": "Lifefinder-wifi",
+  "crc": 2409062033,
+  "versions": "R27"
+ },
+ "2409246216": {
+  "name": "Motion-spectrum",
+  "crc": 2409246216,
+  "versions": "R30"
+ },
+ "2473725182": {
+  "name": "Motion-measure",
+  "crc": 2473725182,
+  "versions": "R33 R32 R31 R30 R1001 R1000"
+ },
+ "2479684764": {
+  "name": "CO2-Debug",
+  "crc": 2479684764,
+  "versions": "R1001"
+ },
+ "2482184829": {
+  "name": "MeshBridge",
+  "crc": 2482184829,
+  "versions": "R1000"
+ },
+ "2512132866": {
+  "name": "Pir-Presence",
+  "crc": 2512132866,
+  "versions": "R1000"
+ },
+ "2566472474": {
+  "name": "Lifefinder-gnss",
+  "crc": 2566472474,
+  "versions": "R23"
+ },
+ "2591224998": {
+  "name": "Lifefinder-gnss",
+  "crc": 2591224998,
+  "versions": "R30 R29"
+ },
+ "2604624720": {
+  "name": "Puck-radar",
+  "crc": 2604624720,
+  "versions": "R9 R10"
+ },
+ "2667292405": {
+  "name": "MeshComfortTimeCount",
+  "crc": 2667292405,
+  "versions": "R1001"
+ },
+ "2689938490": {
+  "name": "Pir-Motion",
+  "crc": 2689938490,
+  "versions": "R1000"
+ },
+ "2696231198": {
+  "name": "Square-comfort",
+  "crc": 2696231198,
+  "versions": "R14"
+ },
+ "2719891747": {
+  "name": "Airport-int",
+  "crc": 2719891747,
+  "versions": "R20"
+ },
+ "2738122399": {
+  "name": "Lifefinder-motion-button-both",
+  "crc": 2738122399,
+  "versions": "R28"
+ },
+ "2745602166": {
+  "name": "Airport-int-R6-fw-patch",
+  "crc": 2745602166,
+  "versions": "R19 R18"
+ },
+ "2766427005": {
+  "name": "Square-comfort-sound",
+  "crc": 2766427005,
+  "versions": "R13"
+ },
+ "2767105504": {
+  "name": "MeshGateway",
+  "crc": 2767105504,
+  "versions": "R1001 R1000"
+ },
+ "2793176638": {
+  "name": "Seat-occupancy",
+  "crc": 2793176638,
+  "versions": "R29"
+ },
+ "2794280370": {
+  "name": "Wifi-tracker",
+  "crc": 2794280370,
+  "versions": "R8 R7 R6 R5"
+ },
+ "2831273160": {
+  "name": "MeshComfortExtender",
+  "crc": 2831273160,
+  "versions": ""
+ },
+ "2847964315": {
+  "name": "Puck-radar",
+  "crc": 2847964315,
+  "versions": "R28 R27"
+ },
+ "2878174033": {
+  "name": "Square-air",
+  "crc": 2878174033,
+  "versions": "R32 R31 R30 R1000"
+ },
+ "2907035249": {
+  "name": "Lifefinder-gnss",
+  "crc": 2907035249,
+  "versions": "R22"
+ },
+ "2935681340": {
+  "name": "Lifefinder-mandown-wifi",
+  "crc": 2935681340,
+  "versions": "R33 R32 R31 R1001 R1000"
+ },
+ "2935762138": {
+  "name": "Square-comfort",
+  "crc": 2935762138,
+  "versions": "R26"
+ },
+ "2944831603": {
+  "name": "Radiotest-measure",
+  "crc": 2944831603,
+  "versions": "R22 R21 R20 R19 R18 R16 R15 R14"
+ },
+ "2977864945": {
+  "name": "Comfort",
+  "crc": 2977864945,
+  "versions": "R1001 R1000"
+ },
+ "3011250449": {
+  "name": "MeshBasicMotion",
+  "crc": 3011250449,
+  "versions": "R1000"
+ },
+ "3022686423": {
+  "name": "MeshRadar",
+  "crc": 3022686423,
+  "versions": "R1001"
+ },
+ "3031484599": {
+  "name": "Lifefinder-motion",
+  "crc": 3031484599,
+  "versions": "R15 R14 R13"
+ },
+ "3040106327": {
+  "name": "Airport-int",
+  "crc": 3040106327,
+  "versions": "R8"
+ },
+ "3061855237": {
+  "name": "MeshComfortTimeCount",
+  "crc": 3061855237,
+  "versions": "R1000"
+ },
+ "3086277881": {
+  "name": "Linkcheck",
+  "crc": 3086277881,
+  "versions": "R8 R7 R6 R5"
+ },
+ "3090458506": {
+  "name": "Square-comfort-sound",
+  "crc": 3090458506,
+  "versions": "R22 R21 R20 R19"
+ },
+ "3094986737": {
+  "name": "Airport-int",
+  "crc": 3094986737,
+  "versions": "R33 R32 R31 R30 R29 R28 R27 R26 R25 R1001 R1000"
+ },
+ "3101276567": {
+  "name": "Sniffer-ping-pong-ext",
+  "crc": 3101276567,
+  "versions": "R33 R32 R31 R30 R1001 R1000"
+ },
+ "3134142741": {
+  "name": "Lifefinder-motion-button-both",
+  "crc": 3134142741,
+  "versions": "R33 R32 R31 R1001 R1000"
+ },
+ "3137482613": {
+  "name": "MeshComfortSound",
+  "crc": 3137482613,
+  "versions": ""
+ },
+ "3169307235": {
+  "name": "Airport-int",
+  "crc": 3169307235,
+  "versions": "R24 R23 R22 R21"
+ },
+ "3227680283": {
+  "name": "Lifefinder-alternating",
+  "crc": 3227680283,
+  "versions": "R27"
+ },
+ "3236848785": {
+  "name": "Precense",
+  "crc": 3236848785,
+  "versions": ""
+ },
+ "3241343967": {
+  "name": "Square-air",
+  "crc": 3241343967,
+  "versions": "R25 R24 R23 R22 R21 R20 R19 R18 R16"
+ },
+ "3251982802": {
+  "name": "Lifefinder-motion-nfc-wifi",
+  "crc": 3251982802,
+  "versions": "R30 R29 R28"
+ },
+ "3264322911": {
+  "name": "Square-comfort",
+  "crc": 3264322911,
+  "versions": "R9 R10"
+ },
+ "3297213463": {
+  "name": "Seat-occupancy",
+  "crc": 3297213463,
+  "versions": "R33 R32 R31 R30 R1001 R1000"
+ },
+ "3321548430": {
+  "name": "Lifefinder",
+  "crc": 3321548430,
+  "versions": "R15 R14 R13"
+ },
+ "3328042723": {
+  "name": "Airport-budget",
+  "crc": 3328042723,
+  "versions": "R8"
+ },
+ "3338740039": {
+  "name": "IR-proximity",
+  "crc": 3338740039,
+  "versions": "R25 R24 R23 R22"
+ },
+ "3392161576": {
+  "name": "Digital-gpio",
+  "crc": 3392161576,
+  "versions": "R33 R32 R31 R30 R1001 R1000"
+ },
+ "3409025270": {
+  "name": "Digital-gpio",
+  "crc": 3409025270,
+  "versions": "R29 R28 R27"
+ },
+ "3437792987": {
+  "name": "Square-comfort-sound",
+  "crc": 3437792987,
+  "versions": "R25 R24 R23"
+ },
+ "3441810944": {
+  "name": "Lifefinder-gnss",
+  "crc": 3441810944,
+  "versions": "R26"
+ },
+ "3459341164": {
+  "name": "Lifefinder-beacon-nfc",
+  "crc": 3459341164,
+  "versions": "R33 R32 R31 R30 R1001 R1000"
+ },
+ "3465514373": {
+  "name": "Lifefinder-motion-nfc-gnss",
+  "crc": 3465514373,
+  "versions": "R27"
+ },
+ "3469695180": {
+  "name": "Lifefinder-NFC-Reader-V1",
+  "crc": 3469695180,
+  "versions": ""
+ },
+ "3497448490": {
+  "name": "Digital-gpio",
+  "crc": 3497448490,
+  "versions": "R12 R11"
+ },
+ "3500434333": {
+  "name": "Square-comfort-sound",
+  "crc": 3500434333,
+  "versions": "R29 R28 R27"
+ },
+ "3502401091": {
+  "name": "Square-comfort",
+  "crc": 3502401091,
+  "versions": "R1001"
+ },
+ "3505805917": {
+  "name": "Lifefinder-squad",
+  "crc": 3505805917,
+  "versions": "R15 R14 R13"
+ },
+ "3509502476": {
+  "name": "Sniffer",
+  "crc": 3509502476,
+  "versions": "R9 R8 R7 R6 R5 R11 R10"
+ },
+ "3519216112": {
+  "name": "Lifefinder-beacon",
+  "crc": 3519216112,
+  "versions": "R33 R32 R31 R30 R1001 R1000"
+ },
+ "3530880224": {
+  "name": "Square-comfort",
+  "crc": 3530880224,
+  "versions": "R12 R11"
+ },
+ "3532693249": {
+  "name": "Airport-int",
+  "crc": 3532693249,
+  "versions": "R19 R18 R16"
+ },
+ "3535569981": {
+  "name": "Lifefinder-NFC-Reader-V2",
+  "crc": 3535569981,
+  "versions": ""
+ },
+ "3536868539": {
+  "name": "Lifefinder-alternating",
+  "crc": 3536868539,
+  "versions": "R33 R32 R31 R1001 R1000"
+ },
+ "3550461869": {
+  "name": "Radiotest-measure",
+  "crc": 3550461869,
+  "versions": "R33 R32 R31 R30 R29 R28 R27 R26 R25 R24 R23 R1001 R1000"
+ },
+ "3561470814": {
+  "name": "Lifefinder-motion-button-wifi",
+  "crc": 3561470814,
+  "versions": "R27"
+ },
+ "3563830815": {
+  "name": "Air",
+  "crc": 3563830815,
+  "versions": "R1001"
+ },
+ "3605076574": {
+  "name": "Lifefinder-wifi",
+  "crc": 3605076574,
+  "versions": "R8 R7"
+ },
+ "3625056904": {
+  "name": "Airport-int",
+  "crc": 3625056904,
+  "versions": "R20 R19 R18 R16"
+ },
+ "3629466160": {
+  "name": "Tracker-budget",
+  "crc": 3629466160,
+  "versions": "R8 R7"
+ },
+ "3634715455": {
+  "name": "Square-air",
+  "crc": 3634715455,
+  "versions": "R15"
+ },
+ "3679384538": {
+  "name": "Square-comfort",
+  "crc": 3679384538,
+  "versions": "R29 R28 R27"
+ },
+ "3685415244": {
+  "name": "Lifefinder-motion",
+  "crc": 3685415244,
+  "versions": "R8 R7"
+ },
+ "3705434392": {
+  "name": "Motion-measure-unconf",
+  "crc": 3705434392,
+  "versions": "R33 R32 R31 R30 R1001 R1000"
+ },
+ "3756050244": {
+  "name": "Lifefinder-gnss",
+  "crc": 3756050244,
+  "versions": "R33 R32 R31 R1001 R1000"
+ },
+ "3785611854": {
+  "name": "Lifefinder-motion-button-gnss",
+  "crc": 3785611854,
+  "versions": "R27"
+ },
+ "3795814268": {
+  "name": "Lifefinder-gnss",
+  "crc": 3795814268,
+  "versions": "R28"
+ },
+ "3802553086": {
+  "name": "Tracker",
+  "crc": 3802553086,
+  "versions": "R33 R32 R31 R30 R29 R28 R27 R1001 R1000"
+ },
+ "3813895388": {
+  "name": "IR-proximity",
+  "crc": 3813895388,
+  "versions": "R30 R29 R28 R27 R26"
+ },
+ "3842802183": {
+  "name": "Square-comfort-sound",
+  "crc": 3842802183,
+  "versions": "R26"
+ },
+ "3862345097": {
+  "name": "Lifefinder-wifi-pos-tester",
+  "crc": 3862345097,
+  "versions": "R27 R26 R25 R24"
+ },
+ "3873093409": {
+  "name": "MeshRadar",
+  "crc": 3873093409,
+  "versions": ""
+ },
+ "3886254671": {
+  "name": "Heartstarter",
+  "crc": 3886254671,
+  "versions": "R8 R7"
+ },
+ "3906402051": {
+  "name": "Square-air",
+  "crc": 3906402051,
+  "versions": "R26"
+ },
+ "3907847420": {
+  "name": "Lifefinder-motion-button-both",
+  "crc": 3907847420,
+  "versions": "R30 R29"
+ },
+ "3922413892": {
+  "name": "Airport-budget",
+  "crc": 3922413892,
+  "versions": "R7"
+ },
+ "3980641867": {
+  "name": "MeshComfortTimeCount",
+  "crc": 3980641867,
+  "versions": ""
+ },
+ "3984350748": {
+  "name": "Pir-Debug-3Algo",
+  "crc": 3984350748,
+  "versions": "R1001"
+ },
+ "3994244140": {
+  "name": "Lifefinder-wifi",
+  "crc": 3994244140,
+  "versions": "R9 R12 R11 R10"
+ },
+ "3999624005": {
+  "name": "US-Frequency-hop-test",
+  "crc": 3999624005,
+  "versions": "R33 R32 R31 R30 R29 R28 R27 R26 R25 R24 R23 R22 R21 R20 R19 R18 R16 R15 R14 R13 R12 R1001 R1000"
+ },
+ "4002204643": {
+  "name": "Square-air",
+  "crc": 4002204643,
+  "versions": "R14"
+ },
+ "4021230878": {
+  "name": "MeshWifiTracker",
+  "crc": 4021230878,
+  "versions": "R1001 R1000"
+ },
+ "4030513719": {
+  "name": "MeshBasicMotion",
+  "crc": 4030513719,
+  "versions": ""
+ },
+ "4055310652": {
+  "name": "Square-comfort",
+  "crc": 4055310652,
+  "versions": "R33 R32 R31 R30 R1001 R1000"
+ },
+ "4056726319": {
+  "name": "AirCO2-Interval",
+  "crc": 4056726319,
+  "versions": "R1001"
+ },
+ "4058561182": {
+  "name": "Empty",
+  "crc": 4058561182,
+  "versions": "R9 R8 R7 R6 R5 R33 R32 R31 R30 R29 R28 R27 R26 R25 R24 R23 R22 R21 R20 R19 R18 R16 R15 R14 R13 R12 R11 R1001 R1000 R10"
+ },
+ "4072134224": {
+  "name": "Lifefinder-motion-nfc-gnss",
+  "crc": 4072134224,
+  "versions": "R30 R29 R28"
+ },
+ "4078507651": {
+  "name": "Puck-radar-v6",
+  "crc": 4078507651,
+  "versions": "R6 R5"
+ },
+ "4120107816": {
+  "name": "Linkcheck",
+  "crc": 4120107816,
+  "versions": "R9 R30 R29 R28 R27 R26 R25 R24 R23 R22 R21 R20 R19 R18 R16 R15 R14 R13 R12 R11 R10"
+ },
+ "4173659976": {
+  "name": "Motion-spectrum",
+  "crc": 4173659976,
+  "versions": "R33 R32 R31 R1000"
+ },
+ "4174894842": {
+  "name": "Square-comfort",
+  "crc": 4174894842,
+  "versions": "R13"
+ },
+ "4209750967": {
+  "name": "MeshBridge",
+  "crc": 4209750967,
+  "versions": ""
+ },
+ "4231041369": {
+  "name": "Square-air",
+  "crc": 4231041369,
+  "versions": "R29 R28 R27"
+ }
+}
