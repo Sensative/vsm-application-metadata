@@ -49,6 +49,11 @@
   "crc": 156242849,
   "versions": "R1000"
  },
+ "169948890": {
+  "name": "Pir-Motion",
+  "crc": 169948890,
+  "versions": ""
+ },
  "174308877": {
   "name": "Airport-int",
   "crc": 174308877,
@@ -68,6 +73,11 @@
   "name": "Radiotest-measure",
   "crc": 190349531,
   "versions": "R13 R12"
+ },
+ "194524023": {
+  "name": "Pir-Debug-3Algo",
+  "crc": 194524023,
+  "versions": ""
  },
  "232953314": {
   "name": "Lifefinder-wifi",
@@ -194,6 +204,11 @@
   "crc": 666673201,
   "versions": "R1001"
  },
+ "668739862": {
+  "name": "Air",
+  "crc": 668739862,
+  "versions": ""
+ },
  "685004179": {
   "name": "Lifefinder-wifi",
   "crc": 685004179,
@@ -239,6 +254,11 @@
   "crc": 924779957,
   "versions": "R8 R7"
  },
+ "996432499": {
+  "name": "Tracker",
+  "crc": 996432499,
+  "versions": ""
+ },
  "1005192630": {
   "name": "Lifefinder-wifi",
   "crc": 1005192630,
@@ -278,6 +298,11 @@
   "name": "Square-air",
   "crc": 1128699053,
   "versions": "R9 R10"
+ },
+ "1154330543": {
+  "name": "Motion-measure-unconf",
+  "crc": 1154330543,
+  "versions": ""
  },
  "1161910006": {
   "name": "Lifefinder-alternating",
@@ -384,6 +409,11 @@
   "crc": 1508685242,
   "versions": "R1001"
  },
+ "1538244444": {
+  "name": "Pir-State-Debug",
+  "crc": 1538244444,
+  "versions": ""
+ },
  "1548534003": {
   "name": "Motion-spectrum",
   "crc": 1548534003,
@@ -439,6 +469,11 @@
   "crc": 1711284143,
   "versions": "R9 R33 R32 R31 R30 R29 R28 R27 R26 R25 R24 R23 R22 R21 R20 R19 R18 R16 R15 R14 R13 R12 R11 R1001 R1000 R10"
  },
+ "1725374354": {
+  "name": "Square-comfort",
+  "crc": 1725374354,
+  "versions": ""
+ },
  "1727723267": {
   "name": "Heartstarter",
   "crc": 1727723267,
@@ -474,10 +509,20 @@
   "crc": 1843680688,
   "versions": "R1000"
  },
+ "1860649675": {
+  "name": "Square-comfort-sound",
+  "crc": 1860649675,
+  "versions": ""
+ },
  "1872032769": {
   "name": "Airport-int",
   "crc": 1872032769,
   "versions": "R15 R14 R13"
+ },
+ "1875267019": {
+  "name": "Airport-int",
+  "crc": 1875267019,
+  "versions": ""
  },
  "1896268866": {
   "name": "MeshAir",
@@ -568,6 +613,11 @@
   "name": "Tracker",
   "crc": 2093063534,
   "versions": "R26"
+ },
+ "2107417816": {
+  "name": "Tracker-stats",
+  "crc": 2107417816,
+  "versions": ""
  },
  "2132727044": {
   "name": "Default",
@@ -678,6 +728,11 @@
   "name": "Pir-Presence",
   "crc": 2512132866,
   "versions": "R1000"
+ },
+ "2554490671": {
+  "name": "Pir-Presence",
+  "crc": 2554490671,
+  "versions": ""
  },
  "2566472474": {
   "name": "Lifefinder-gnss",
@@ -844,6 +899,11 @@
   "crc": 3169307235,
   "versions": "R24 R23 R22 R21"
  },
+ "3226492911": {
+  "name": "Motion-measure",
+  "crc": 3226492911,
+  "versions": ""
+ },
  "3227680283": {
   "name": "Lifefinder-alternating",
   "crc": 3227680283,
@@ -922,6 +982,11 @@
  "3469695180": {
   "name": "Lifefinder-NFC-Reader-V1",
   "crc": 3469695180,
+  "versions": ""
+ },
+ "3487880400": {
+  "name": "Heartstarter",
+  "crc": 3487880400,
   "versions": ""
  },
  "3497448490": {
@@ -1018,6 +1083,11 @@
   "name": "Lifefinder-motion",
   "crc": 3685415244,
   "versions": "R8 R7"
+ },
+ "3693183552": {
+  "name": "IR-proximity",
+  "crc": 3693183552,
+  "versions": ""
  },
  "3705434392": {
   "name": "Motion-measure-unconf",
@@ -1162,6 +1232,11 @@
  "4209750967": {
   "name": "MeshBridge",
   "crc": 4209750967,
+  "versions": ""
+ },
+ "4228601043": {
+  "name": "Presence",
+  "crc": 4228601043,
   "versions": ""
  },
  "4231041369": {
